@@ -1,3 +1,10 @@
+# Nuxt VCalendar (Nuxt 4 Compatible Fork)
+
+This package is a Nuxt 4 compatible fork of @samk-dev/nuxt-vcalendar by Samk-dev.
+The original project is licensed under the MIT License and copyright remains with the original author(s).
+
+This fork updates the code to support Nuxt 4 while preserving all original functionality.
+
 # Nuxt VCalendar
 
 [![npm version][npm-version-src]][npm-version-href]
