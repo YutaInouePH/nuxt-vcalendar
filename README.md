@@ -24,34 +24,34 @@ Integrates V Calendar in Nuxt
 
 ## Quick Setup
 
-1. Add `@samk-dev/nuxt-vcalendar` dependency to your project
+1. Add `@yuta-inoue-ph/nuxt-vcalendar` dependency to your project
 
 ```bash
-npx nuxi@latest module add @samk-dev/nuxt-vcalendar
+npx nuxi@latest module add @yuta-inoue-ph/nuxt-vcalendar
 ```
 
 That's it! You can now use Nuxt VCalendar in your Nuxt app ✨
 
 ## Manual Installation
 
-1. Add @samk-dev/nuxt-vcalendar dependency to your project
+1. Add @yuta-inoue-ph/nuxt-vcalendar dependency to your project
 
 ```bash
 # Using pnpm
-pnpm add -D @samk-dev/nuxt-vcalendar
+pnpm add -D @yuta-inoue-ph/nuxt-vcalendar
 
 # Using yarn
-yarn add --dev @samk-dev/nuxt-vcalendar
+yarn add --dev @yuta-inoue-ph/nuxt-vcalendar
 
 # Using npm
-npm install --save-dev @samk-dev/nuxt-vcalendar
+npm install --save-dev @yuta-inoue-ph/nuxt-vcalendar
 ```
 
-2. Add `@samk-dev/nuxt-vcalendar` to the `modules` section of `nuxt.config.ts`
+2. Add `@yuta-inoue-ph/nuxt-vcalendar` to the `modules` section of `nuxt.config.ts`
 
 ```js
 export default defineNuxtConfig({
-  modules: ['@samk-dev/nuxt-vcalendar']
+  modules: ['@yuta-inoue-ph/nuxt-vcalendar']
 })
 ```
 
@@ -152,15 +152,13 @@ npm run test:watch
 npm run release
 ```
 
-![Alt](https://repobeats.axiom.co/api/embed/33e6456563229344406c4f0ce45eba84c5a85c26.svg 'Repobeats analytics image')
-
 <!-- Badges -->
 
-[npm-version-src]: https://img.shields.io/npm/v/@samk-dev/nuxt-vcalendar/latest.svg?style=flat&colorA=18181B&colorB=28CF8D
-[npm-version-href]: https://npmjs.com/package/@samk-dev/nuxt-vcalendar
-[npm-downloads-src]: https://img.shields.io/npm/dm/@samk-dev/nuxt-vcalendar.svg?style=flat&colorA=18181B&colorB=28CF8D
-[npm-downloads-href]: https://npmjs.com/package/@samk-dev/nuxt-vcalendar
-[license-src]: https://img.shields.io/npm/l/@samk-dev/nuxt-vcalendar.svg?style=flat&colorA=18181B&colorB=28CF8D
-[license-href]: https://npmjs.com/package/@samk-dev/nuxt-vcalendar
+[npm-version-src]: https://img.shields.io/npm/v/@yuta-inoue-ph/nuxt-vcalendar/latest.svg?style=flat&colorA=18181B&colorB=28CF8D
+[npm-version-href]: https://npmjs.com/package/@yuta-inoue-ph/nuxt-vcalendar
+[npm-downloads-src]: https://img.shields.io/npm/dm/@yuta-inoue-ph/nuxt-vcalendar.svg?style=flat&colorA=18181B&colorB=28CF8D
+[npm-downloads-href]: https://npmjs.com/package/@yuta-inoue-ph/nuxt-vcalendar
+[license-src]: https://img.shields.io/npm/l/@yuta-inoue-ph/nuxt-vcalendar.svg?style=flat&colorA=18181B&colorB=28CF8D
+[license-href]: https://npmjs.com/package/@yuta-inoue-ph/nuxt-vcalendar
 [nuxt-src]: https://img.shields.io/badge/Nuxt-18181B?logo=nuxt.js
 [nuxt-href]: https://nuxt.com
