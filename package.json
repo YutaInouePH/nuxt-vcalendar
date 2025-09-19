@@ -1,6 +1,6 @@
 {
   "name": "@yuta-inoue-ph/nuxt-vcalendar",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "Integrates V Calendar in Nuxt 4",
   "repository": {
     "type": "git",
