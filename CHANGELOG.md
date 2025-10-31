@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.1.3
+
+[compare changes](https://github.com/YutaInouePH/nuxt-vcalendar/compare/v1.1.2...v1.1.3)
+
+### 🏡 Chore
+
+- **deps-dev:** Bump vite from 7.1.6 to 7.1.12 ([896e4fb](https://github.com/YutaInouePH/nuxt-vcalendar/commit/896e4fb))
+
 ## v1.0.4
 
 [compare changes](https://github.com/samk-dev/nuxt-vcalendar/compare/v1.0.3...v1.0.4)
