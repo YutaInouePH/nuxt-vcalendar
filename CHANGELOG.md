@@ -1,5 +1,19 @@
 # Changelog
 
+## v1.1.4
+
+[compare changes](https://github.com/YutaInouePH/nuxt-vcalendar/compare/v1.1.3...v1.1.4)
+
+### 🏡 Chore
+
+- Npm audit fix ([4ec5bba](https://github.com/YutaInouePH/nuxt-vcalendar/commit/4ec5bba))
+- Npm dedupe ([c2c4cc4](https://github.com/YutaInouePH/nuxt-vcalendar/commit/c2c4cc4))
+- Upgrade nuxt version ([52a94b4](https://github.com/YutaInouePH/nuxt-vcalendar/commit/52a94b4))
+
+### ❤️ Contributors
+
+- Yuta Inoue ([@YutaInouePH](http://github.com/YutaInouePH))
+
 ## v1.1.3
 
 [compare changes](https://github.com/YutaInouePH/nuxt-vcalendar/compare/v1.1.2...v1.1.3)
