@@ -40,7 +40,7 @@
     "update:deps": "npx npm-check-updates --interactive --format group"
   },
   "dependencies": {
-    "@nuxt/kit": "^4.0.3",
+    "@nuxt/kit": "^4.2.2",
     "@popperjs/core": "^2.11.8",
     "v-calendar": "^3.1.2"
   },
@@ -48,14 +48,14 @@
     "@commitlint/cli": "^19.3.0",
     "@commitlint/config-conventional": "^19.2.2",
     "@nuxt/module-builder": "^1.0.1",
-    "@nuxt/schema": "^4.0.3",
+    "@nuxt/schema": "^4.2.2",
     "@samk-dev/eslint-config": "^1.0.6",
     "@samk-dev/prettier-config": "^1.0.4",
     "@types/node": "^20.14.10",
     "changelogen": "^0.5.5",
     "husky": "^9.0.11",
     "lint-staged": "^15.2.7",
-    "nuxt": "^4.0.3"
+    "nuxt": "^4.2.2"
   },
   "overrides": {
     "vue": "latest"
