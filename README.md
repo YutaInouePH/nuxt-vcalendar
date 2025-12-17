@@ -5,6 +5,37 @@ The original project is licensed under the MIT License and copyright remains wit
 
 This fork updates the code to support Nuxt 4 while preserving all original functionality.
 
+## Migration instructions
+
+1. Modify `package.json`
+
+
+```
+'@samk-dev/nuxt-vcalendar',
+↓
+'@yuta-inoue-ph/nuxt-vcalendar',
+```
+
+
+2. Reinstall `package-lock.json`
+
+```
+npm install
+```
+
+3. Modify `nuxt.config.ts`
+
+```
+export default defineNuxtConfig({
+  ...
+  modules: [
+    '@samk-dev/nuxt-vcalendar', // remove
+    '@yuta-inoue-ph/nuxt-vcalendar', // add
+  ],
+  ...
+})
+```
+
 # Nuxt VCalendar
 
 [![npm version][npm-version-src]][npm-version-href]
