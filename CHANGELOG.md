@@ -1,5 +1,18 @@
 # Changelog
 
+## v1.1.5
+
+[compare changes](https://github.com/YutaInouePH/nuxt-vcalendar/compare/v1.1.4...v1.1.5)
+
+### 🏡 Chore
+
+- **release:** V1.1.4 ([df3022b](https://github.com/YutaInouePH/nuxt-vcalendar/commit/df3022b))
+- Upgrade nuxt and fix security vulnerabilities ([f59054c](https://github.com/YutaInouePH/nuxt-vcalendar/commit/f59054c))
+
+### ❤️ Contributors
+
+- Yuta Inoue ([@YutaInouePH](https://github.com/YutaInouePH))
+
 ## v1.1.4
 
 [compare changes](https://github.com/YutaInouePH/nuxt-vcalendar/compare/v1.1.3...v1.1.4)
